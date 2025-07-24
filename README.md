@@ -1,8 +1,23 @@
-# React + Vite
+# TCLaunch 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**TCLaunch** is an innovative web platform built to support students and aspiring professionals in launching their tech careers. The platform offers a variety of features including internship listings, online courses, training programs, student reviews, and a personalized dashboard.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 User Registration & Login
+- 🧑‍🏫 Course Listings (Frontend, Backend, Fullstack, Python, etc.)
+- 📝 Enroll & Track Training Progress
+- ⭐ Student Reviews and Feedback
+- 📊 Dashboard to monitor learning and internship activities
+- 🖼️ Clean and modern UI using React.js
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, HTML5, CSS3, JavaScript
+- **Backend**: Node.js, Express.js *(optional if full-stack)*
+- **Database**: MongoDB *(optional if full-stack)*
+- **Hosting**: Vercel / Netlify (Frontend), Render / Railway (Backend)
+
+## Author
+
+Sunitha Vallepu

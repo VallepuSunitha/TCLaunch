@@ -14,9 +14,6 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, HTML5, CSS3, JavaScript
-- **Backend**: Node.js, Express.js *(optional if full-stack)*
-- **Database**: MongoDB *(optional if full-stack)*
-- **Hosting**: Vercel / Netlify (Frontend), Render / Railway (Backend)
 
 ## Author
 
